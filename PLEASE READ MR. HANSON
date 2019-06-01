@@ -1,0 +1,6 @@
+The project is stored in the submit.zip file.
+
+The project includes the .xcodeproj file and the assets folder.
+
+I could not figure out how to make a profiles work on every computer, so it might be necessary to sign the app with your own 
+profile in order to run the app.
